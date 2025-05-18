@@ -33,6 +33,7 @@ JavaScript (ES6)
 Clone the Repository:
 
 git clone https://github.com/MAYANK-AGARWAL-123/Recipe_Sharing_web_app.git
+
 cd Recipe_Sharing_web_app
 
 Open in Browser:
